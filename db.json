@@ -2,10 +2,9 @@
   "recipes": [
     {
       "id": 1,
-      "name": "Spiced Chickpea Stew With Coconut and Turmeric",
-      "image_path": "/static/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric.jpg",
+      "foodname": "Spiced Chickpea Stew With Coconut and Turmeric",
+      "image": "https://recipes.eerieemu.com/static/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric.jpg",
       "description": "Spiced chickpeas are crisped in olive oil, then simmered in a garlicky coconut milk for an insanely creamy, basically-good-for-you stew that evokes stews found in South India and parts of the Caribbean. While the chickpeas alone would be good as a side dish, they are further simmered with stock, bolstered with dark, leafy greens of your choosing and finished with a handful of fresh mint. When shopping, be sure to avoid low-fat coconut milk, coconut milk meant for drinking or cream of coconut: All are very different and would not be suitable here.",
-      "total_time_string": "55 minutes",
       "servings": "4 to 6 servings",
       "rating_value": 5,
       "ingredients": [
@@ -32,76 +31,13 @@
         "Add greens and stir, making sure they’re submerged in the liquid. Cook until they wilt and soften, 3 to 7 minutes, depending on what you’re using. (Swiss chard and spinach will wilt and soften much faster than kale or collard greens.) Season again with salt and pepper.",
         "Divide among bowls and top with mint, reserved chickpeas, a sprinkle of red-pepper flakes and a good drizzle of olive oil. Serve alongside yogurt and toasted pita if using; dust the yogurt with turmeric if you'd like."
       ],
-      "country": "Alison Roman"
-    },
-    {
-      "id": 2,
-      "name": "Red Lentil Soup With Lemon",
-      "image_path": "/static/recipes/1016062-red-lentil-soup-with-lemon.jpg",
-      "description": "This is a lentil soup that defies expectations of what lentil soup can be. Based on a Turkish lentil soup, mercimek corbasi, it is light, spicy and a bold red color (no murky brown here): a revelatory dish that takes less than an hour to make. The cooking is painless. Sauté onion and garlic in oil, then stir in tomato paste, cumin and chile powder and cook a few minutes more to intensify flavor. Add broth, water, red lentils (which cook faster than their green or black counterparts) and diced carrot, and simmer for 30 minutes. Purée half the mixture and return it to the pot for a soup that strikes the balance between chunky and pleasingly smooth. A hit of lemon juice adds an up note that offsets the deep cumin and chile flavors.",
-      "total_time_string": "45 minutes",
-      "servings": "4 servings",
-      "rating_value": 5,
-      "ingredients": [
-        "3 tablespoons olive oil, more for drizzling",
-        "1 large onion, chopped",
-        "2 garlic cloves, minced",
-        "1 tablespoon tomato paste",
-        "1 teaspoon ground cumin",
-        "1/4 teaspoon kosher salt, more to taste",
-        "1/4 teaspoon ground black pepper",
-        " Pinch of ground chile powder or cayenne, more to taste",
-        "1 quart chicken or vegetable broth",
-        "2 cups water",
-        "1 cup red lentils",
-        "1 large carrot, peeled and diced",
-        " Juice of 1/2 lemon, more to taste",
-        "3 tablespoons chopped fresh cilantro"
-      ],
-      "instructions": [
-        "In a <a href='https://www.nytimes.com/wirecutter/reviews/best-dutch-oven/'>large pot</a>, heat 3 tablespoons oil over high heat until hot and shimmering. Add onion and garlic, and sauté until golden, about 4 minutes.",
-        "Stir in tomato paste, cumin, salt, black pepper and chili powder or cayenne, and sauté for 2 minutes longer.",
-        "Add broth, 2 cups water, lentils and carrot. Bring to a simmer, then partially cover pot and turn heat to medium-low. Simmer until lentils are soft, about 30 minutes. Taste and add salt if necessary.",
-        "Using an immersion or regular blender or a food processor, purée half the soup then add it back to pot. Soup should be somewhat chunky.",
-        "Reheat soup if necessary, then stir in lemon juice and cilantro. Serve soup drizzled with good olive oil and dusted lightly with chili powder if desired."
-      ],
-      "country": "Melissa Clark"
-    },
-    {
-      "id": 3,
-      "name": "Old-Fashioned Beef Stew",
-      "image_path": "/static/recipes/4735-old-fashioned-beef-stew.jpg",
-      "description": "This classic stick-to-your-ribs stew is the ideal project for a chilly weekend. Beef, onion, carrots, potatoes and red wine come together in  cozy harmony. If you are feeding a crowd, good news: It doubles (or triples) beautifully.",
-      "total_time_string": "2 hours 30 minutes",
-      "servings": "4 servings",
-      "rating_value": 5,
-      "ingredients": [
-        "1/4 cup all-purpose flour",
-        "1/4 teaspoon freshly ground pepper",
-        "1 pound beef stewing meat, trimmed and cut into inch cubes",
-        "5 teaspoons vegetable oil",
-        "2 tablespoons red wine vinegar",
-        "1 cup red wine",
-        "3 1/2 cups beef broth, homemade or low-sodium canned",
-        "2 bay leaves",
-        "1 medium onion, peeled and chopped",
-        "5 medium carrots, peeled and cut into 1/4-inch rounds",
-        "2 large baking potatoes, peeled and cut into 3/4-inch cubes",
-        "2 teaspoons salt"
-      ],
-      "instructions": [
-        "Combine the flour and pepper in a bowl, add the beef and toss to coat well. Heat 3 teaspoons of the oil in a <a href='https://www.nytimes.com/wirecutter/reviews/best-dutch-oven/'>large pot</a>. Add the beef a few pieces at a time; do not overcrowd. Cook, turning the pieces until beef is browned on all sides, about 5 minutes per batch; add more oil as needed between batches.",
-        "Remove the beef from the pot and add the vinegar and wine. Cook over medium-high heat, scraping the pan with a wooden spoon to loosen any browned bits. Add the beef, beef broth and bay leaves. Bring to a boil, then reduce to a slow simmer.",
-        "Cover and cook, skimming broth from time to time, until the beef is tender, about 1 1/2 hours. Add the onions and carrots and simmer, covered, for 10 minutes. Add the potatoes and simmer until vegetables are tender, about 30 minutes more. Add broth or water if the stew is dry. Season with salt and pepper to taste. Ladle among 4 bowls and serve."
-      ],
-      "country": "Molly O'Neill"
+      "country": "Cocos (Keeling) Islands"
     },
     {
       "id": 4,
-      "name": "No-Knead Bread",
-      "image_path": "/static/recipes/11376-no-knead-bread.jpg",
+      "foodname": "No-Knead Bread",
+      "image": "https://recipes.eerieemu.com/static/recipes/11376-no-knead-bread.jpg",
       "description": "Here is one of the most popular recipes The Times has ever published, courtesy of Jim Lahey, owner of Sullivan Street Bakery. It requires no kneading. It uses no special ingredients, equipment or techniques. And it takes very little effort — only time. You will need 24 hours to create the bread, but much of this is unattended waiting, a slow fermentation of the dough that results in a perfect loaf. (We've updated the recipe to reflect <a href=\"https://www.nytimes.com/2006/12/06/dining/06mini.html\">changes Mark Bittman made</a> to the recipe in 2006 after publishing and receiving reader feedback. The original recipe called for 3 cups flour; we've adjusted it to call for 3 1/3 cups/430 grams flour.)",
-      "total_time_string": "1 hour 30 minutes, plus about 20 hours' resting time",
       "servings": "One 1 1/2-pound loaf",
       "rating_value": 5,
       "ingredients": [
@@ -116,14 +52,13 @@
         "Using just enough flour to keep dough from sticking to work surface or to your fingers, gently and quickly shape dough into a ball. Generously coat a cotton towel (not terry cloth) with flour, wheat bran or cornmeal; put dough seam side down on towel and dust with more flour, bran or cornmeal. Cover with another cotton towel and let rise for about 2 hours. When it is ready, dough will be more than double in size and will not readily spring back when poked with a finger.",
         "At least a half-hour before dough is ready, heat oven to 450 degrees. Put a 6- to 8-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic) in oven as it heats. When dough is ready, carefully remove pot from oven. Slide your hand under towel and turn dough over into pot, seam side up; it may look like a mess, but that is O.K. Shake pan once or twice if dough is unevenly distributed; it will straighten out as it bakes. Cover with lid and bake 30 minutes, then remove lid and bake another 15 to 30 minutes, until loaf is beautifully browned. Cool on a rack."
       ],
-      "country": "Mark Bittman, Jim Lahey"
+      "country": "Dominican Republic"
     },
     {
       "id": 5,
-      "name": "Marcella Hazan’s Bolognese Sauce",
-      "image_path": "/static/recipes/1015181-marcella-hazans-bolognese-sauce.jpg",
+      "foodname": "Marcella Hazan’s Bolognese Sauce",
+      "image": "https://recipes.eerieemu.com/static/recipes/1015181-marcella-hazans-bolognese-sauce.jpg",
       "description": "After the death in 2013 of Marcella Hazan, the cookbook who changed the way Americans cook Italian food, The Times asked readers which of her recipes had become staples in their kitchens. Many people answered with one word: “Bolognese.” Ms. Hazan had a few recipes for the classic sauce, and they are all outstanding. This one appeared in her book “The Essentials of Classic Italian Cuisine,” and one reader called it “the gold standard.” Try it and see for yourself.",
-      "total_time_string": "At least 4 hours",
       "servings": "2 heaping cups, for about 6 servings and 1 1/2 pounds pasta",
       "rating_value": 5,
       "ingredients": [
@@ -149,43 +84,13 @@
         "Add the wine, let it simmer until it has evaporated, then add the tomatoes and stir thoroughly to coat all ingredients well. When the tomatoes begin to bubble, turn the heat down so that the sauce cooks at the laziest of simmers, with just an intermittent bubble breaking through to the surface. Cook, uncovered, for 3 hours or more, stirring from time to time. While the sauce is cooking, you are likely to find that it begins to dry out and the fat separates from the meat. To keep it from sticking, add 1/2 cup of water whenever necessary. At the end, however, no water at all must be left and the fat must separate from the sauce. Taste and correct for salt.",
         "Toss with cooked drained pasta, adding the tablespoon of butter, and serve with freshly grated Parmesan on the side."
       ],
-      "country": "The New York Times, Marcella Hazan"
-    },
-    {
-      "id": 6,
-      "name": "Caramelized Shallot Pasta",
-      "image_path": "/static/recipes/1020830-caramelized-shallot-pasta.jpg",
-      "description": "This pasta is all about the shallots, cooked down in a bath of olive oil to a jammy, caramelized paste. Tomato paste is there for tanginess, and anchovies for saltiness, but they serve more as background flavors to the sweetness of the shallot. This recipe makes enough caramelized shallot mixture for a double batch of pasta, or simply keep it refrigerated to spoon over fried eggs, or to serve underneath crispy chicken thighs or over roasted root vegetables like carrots or sweet potatoes.",
-      "total_time_string": "40 minutes",
-      "servings": "4 servings",
-      "rating_value": 5,
-      "ingredients": [
-        "1/4 cup olive oil",
-        "6 large shallots, very thinly sliced",
-        "5 garlic cloves, 4 thinly sliced, 1 finely chopped",
-        " Kosher salt and freshly ground black pepper",
-        "1 teaspoon red-pepper flakes, plus more to taste",
-        "1 (2-ounce) can anchovy fillets (about 12), drained",
-        "1 (4.5-ounce) tube or (6-ounce) can of tomato paste (about 1/2 to 3/4 cup)",
-        "10 ounces pasta",
-        "1 cup parsley, leaves and tender stems, finely chopped",
-        " Flaky sea salt"
-      ],
-      "instructions": [
-        "Heat olive oil in a large heavy-bottomed <a href='https://www.nytimes.com/wirecutter/reviews/best-dutch-oven/'>Dutch oven</a> over medium high. Add shallots and thinly sliced garlic, and season with salt and pepper. Cook, stirring occasionally, until the shallots have become totally softened and caramelized with golden-brown fried edges, 15 to 20 minutes.",
-        "Add red-pepper flakes and anchovies. (No need to chop the anchovies; they will dissolve on their own.) Stir to melt the anchovies into the shallots, about 2 minutes.",
-        "Add tomato paste and season with salt and pepper. Cook, stirring constantly to prevent any scorching, until the tomato paste has started to cook in the oil a bit, caramelizing at the edges and going from bright red to a deeper brick red color, about 2 minutes. Remove from heat and transfer about half the mixture to a resealable container, leaving the rest behind. (These are your leftovers to be used elsewhere: in another batch of pasta or smeared onto roasted vegetables, spooned over fried eggs or spread underneath crispy chicken thighs.)",
-        "To serve, cook pasta according to package in a large pot of salted boiling water until very al dente (perhaps more al dente than usual). Transfer to Dutch oven with remaining shallot mixture (or a skillet if you are using the leftover portion) and 1 cup pasta water. Cook over medium-high heat, swirling the skillet to coat each piece of pasta, using a wooden spoon or spatula to scrape up any bits on the bottom, until pasta is thick and sauce has reduced and is sticky, but not saucy, 3 to 5 minutes.",
-        "In a small bowl, combine parsley and finely chopped garlic clove, and season with flaky salt and pepper. Divide pasta among bowls, or transfer to one large serving bowl, and top with parsley mixture and a bit more red-pepper flakes, if you like."
-      ],
-      "country": "Alison Roman"
+      "country": "Saint Martin"
     },
     {
       "id": 7,
-      "name": "Oven-Roasted Chicken Shawarma",
-      "image_path": "/static/recipes/1017161-oven-roasted-chicken-shawarma.jpg",
+      "foodname": "Oven-Roasted Chicken Shawarma",
+      "image": "https://recipes.eerieemu.com/static/recipes/1017161-oven-roasted-chicken-shawarma.jpg",
       "description": "Here is a recipe for an oven-roasted version of the classic street-side flavor bomb usually cooked on a rotisserie. It is perfect for an evening with family and friends. Serve with pita and tahini, chopped cucumbers and tomatoes, some olives, chopped parsley, some feta, fried eggplant, hummus swirled with harissa, rice or rice pilaf. You can make the white sauce that traditionally accompanies it by cutting plain yogurt with mayonnaise and lemon juice, and flecking it with garlic. For a red to offset it, simmer ketchup with red pepper flakes and a hit of red-wine vinegar until it goes syrupy and thick, or just use your favorite hot sauce instead.",
-      "total_time_string": "45 minutes, plus marinating",
       "servings": "4 to 6 servings",
       "rating_value": 5,
       "ingredients": [
@@ -208,14 +113,13 @@
         "When ready to cook, heat oven to 425 degrees. Use the remaining tablespoon of olive oil to grease a rimmed sheet pan. Add the quartered onion to the chicken and marinade, and toss once to combine. Remove the chicken and onion from the marinade, and place on the pan, spreading everything evenly across it.",
         "Put the chicken in the oven and roast until it is browned, crisp at the edges and cooked through, about 30 to 40 minutes. Remove from the oven, allow to rest 2 minutes, then slice into bits. (To make the chicken even more crisp, set a large pan over high heat, add a tablespoon of olive oil to the pan, then the sliced chicken, and sauté until everything curls tight in the heat.) Scatter the parsley over the top and serve with tomatoes, cucumbers, pita, white sauce, hot sauce, olives, fried eggplant, feta, rice — really anything you desire."
       ],
-      "country": "Sam Sifton"
+      "country": "Papua New Guinea"
     },
     {
       "id": 8,
-      "name": "Creamy Macaroni and Cheese",
-      "image_path": "/static/recipes/1015825-creamy-macaroni-and-cheese.jpg",
+      "foodname": "Creamy Macaroni and Cheese",
+      "image": "https://recipes.eerieemu.com/static/recipes/1015825-creamy-macaroni-and-cheese.jpg",
       "description": "There are two schools of thought about macaroni and cheese: Some like it crusty and extra-cheesy here’s our recipe</a>), while others prefer it smooth and creamy. But most people are delighted by any homemade macaroni and cheese. It is light years ahead of the boxed versions. This creamy version has one powerful advantage for the cook: There’s no need to preboil the pasta. It cooks in the oven, absorbing the liquid from the dairy products",
-      "total_time_string": "1 hour 40 minutes",
       "servings": "6 to 8 servings",
       "rating_value": 5,
       "ingredients": [
@@ -235,14 +139,13 @@
         "In a blender, purée cottage cheese, milk, mustard, cayenne, nutmeg and salt and pepper. Reserve 1/4 cup grated Cheddar for topping. In a large bowl, combine remaining grated Cheddar, milk mixture and uncooked pasta. Pour into prepared pan, cover tightly with foil and bake 30 minutes.",
         "Uncover pan, stir gently, sprinkle with reserved cheese and dot with remaining tablespoon butter. Bake, uncovered, 30 minutes more, until browned. Let cool at least 15 minutes before serving."
       ],
-      "country": "Julia Moskin"
+      "country": "Gibraltar"
     },
     {
       "id": 9,
-      "name": "Roberta’s Pizza Dough",
-      "image_path": "/static/recipes/1016230-robertas-pizza-dough.jpg",
+      "foodname": "Roberta’s Pizza Dough",
+      "image": "https://recipes.eerieemu.com/static/recipes/1016230-robertas-pizza-dough.jpg",
       "description": "This recipe, adapted from Roberta’s, the pizza and hipster haute-cuisine utopia in Bushwick, Brooklyn, provides a delicate, extraordinarily flavorful dough that will last in the refrigerator for up to a week. It rewards close attention to weight rather than volume in the matter of the ingredients, and asks for a mixture of finely ground Italian pizza flour (designated “00” on the bags and available in some supermarkets, many specialty groceries and always online) and regular all-purpose flour. As ever with breads, rise time will depend on the temperature and humidity of your kitchen and refrigerator.\n\n Our Greatest Pizza Recipes",
-      "total_time_string": "20 minutes plus at least 3 hours' rising",
       "servings": "Two 12-inch pizzas",
       "rating_value": 5,
       "ingredients": [
@@ -258,14 +161,13 @@
         "Knead rested dough for 3 minutes. Cut into 2 equal pieces and shape each into a ball. Place on a heavily floured surface, cover with dampened cloth, and let rest and rise for 3 to 4 hours at room temperature or for 8 to 24 hours in the refrigerator. (If you refrigerate the dough, remove it 30 to 45 minutes before you begin to shape it for pizza.)",
         "To make pizza, place each dough ball on a heavily floured surface and use your fingers to stretch it, then your hands to shape it into rounds or squares. Top and bake."
       ],
-      "country": "Sam Sifton, Carlo Mirarchi, Brandon Hoy, Chris Parachini, Katherine Wheelock"
+      "country": "Uganda"
     },
     {
       "id": 10,
-      "name": "Chocolate Chip Cookies",
-      "image_path": "/static/recipes/1015819-chocolate-chip-cookies.jpg",
+      "foodname": "Chocolate Chip Cookies",
+      "image": "https://recipes.eerieemu.com/static/recipes/1015819-chocolate-chip-cookies.jpg",
       "description": "You may have memorized the foolproof gem on the back of the Toll House bag, given to the world Graves Wakefield in the 1930s. But this may become your new favorite chocolate chip cookie recipe. It’s a little more complicated, and you’ll have to plan ahead: After assembling the dough, you must chill it for at least 24 hours before baking it, and preferably up to 36. This allows the dry ingredients time to soak up the wet ones, which results in a firmer dough. It leads to a marvelously chewy, chocolate-rich cookie. Don’t skimp on good chocolate, and the sea salt is not an option — it’s the beacon at the top of this gorgeous treat. (You can certainly put this recipe together by hand, but a stand mixer makes it easy work. If you’re in the market for one, our colleagues at The Wirecutter have tested quite a few, and they've put together",
-      "total_time_string": "45 minutes, plus chilling",
       "servings": "1 1/2 dozen 5-inch cookies",
       "rating_value": 5,
       "ingredients": [
@@ -288,14 +190,13 @@
         "When ready to bake, preheat oven to 350 degrees. Line a baking sheet with parchment paper or a nonstick baking mat. Set aside.",
         "Scoop 6 3 1/2-ounce mounds of dough (the size of generous golf balls) onto baking sheet, making sure to turn horizontally any chocolate pieces that are poking up; it will make for a more attractive cookie. Sprinkle lightly with sea salt and bake until golden brown but still soft, 18 to 20 minutes. Transfer sheet to a wire rack for 10 minutes, then slip cookies onto another rack to cool a bit more. Repeat with remaining dough, or reserve dough, refrigerated, for baking remaining batches the next day. Eat warm, with a big napkin."
       ],
-      "country": "David Leite, Jacques Torres"
+      "country": "Venezuela"
     },
     {
       "id": 11,
-      "name": "Shakshuka With Feta",
-      "image_path": "/static/recipes/1014721-shakshuka-with-feta.jpg",
+      "foodname": "Shakshuka With Feta",
+      "image": "https://recipes.eerieemu.com/static/recipes/1014721-shakshuka-with-feta.jpg",
       "description": "Shakshuka may be at the apex of eggs-for-dinner recipes, though in Israel it is breakfast food, a bright, spicy start to the day with a pile of pita or challah served on the side. (It also makes excellent brunch or lunch food.) It’s a one-skillet recipe of eggs baked in a tomato-red pepper sauce spiced with cumin, paprika and cayenne. First you make that sauce, which comes together fairly quickly on top of the stove, then you gently crack each of the eggs into the pan, nestling them into the sauce. The pan is moved into the oven to finish. Shakshuka originated in North Africa, and like many great dishes there are as many versions as there are cooks who have embraced it. This one strays from more traditional renditions by adding crumbled feta cheese, which softens into creamy nuggets in the oven’s heat.",
-      "total_time_string": "50 minutes",
       "servings": "4 to 6 servings",
       "rating_value": 5,
       "ingredients": [
@@ -318,15 +219,14 @@
         "Heat oven to 375 degrees. Heat oil in a large skillet over medium-low. Add onion and bell pepper. Cook gently until very soft, about 20 minutes. Add garlic and cook until tender, 1 to 2 minutes; stir in cumin, paprika and cayenne, and cook 1 minute. Pour in tomatoes and season with 3/4 teaspoon salt and 1/4 teaspoon pepper; simmer until tomatoes have thickened, about 10 minutes. Taste and add more salt and pepper if needed. Stir in crumbled feta.",
         "Gently crack eggs into skillet over tomatoes. Season eggs with salt and pepper. Transfer skillet to oven and bake until eggs are just set, 7 to 10 minutes. Sprinkle with cilantro and serve with hot sauce."
       ],
-      "country": "Melissa Clark"
+      "country": "Solomon Islands"
     },
     {
       "id": 12,
-      "name": "Buttermilk-Brined Roast Chicken",
+      "foodname": "Buttermilk-Brined Roast Chicken",
       "slug": "1018731-buttermilk-brined-roast-chicken",
-      "image_path": "/static/recipes/1018731-buttermilk-brined-roast-chicken.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1018731-buttermilk-brined-roast-chicken.jpg",
       "description": "This recipe, adapted from Samin Nosrat's \"Salt Fat Acid Heat,\" is inspired by the Southern grandma method of marinating chicken overnight in buttermilk before frying it. You're roasting here, but the buttermilk and salt still work like a brine, tenderizing the meat on multiple levels to yield an unbelievably juicy chicken. As an added bonus, the sugars in the buttermilk will caramelize, contributing to an exquisitely browned skin. Be sure to leave 24 hours for marinating the chicken. While the beauty of roast chicken is that you can serve it anytime, anywhere, try serving it alongside panzanella, which plays the role of starch, salad and sauce.",
-      "total_time_string": "About 1 3/4 hours, plus overnight marinating",
       "servings": "4 servings",
       "rating_value": 5,
       "ingredients": [
@@ -344,15 +244,14 @@
         "After about 20 minutes, when the chicken starts to brown, reduce the heat to 400 degrees and continue roasting for 10 minutes.",
         "Move the pan so the legs are facing the rear right corner of the oven. Continue cooking for another 30 minutes or so, until the chicken is brown all over and the juices run clear when you insert a knife down to the bone between the leg and the thigh. If the skin is getting too brown before it is cooked through, use a foil tent. Remove it to a platter and let it rest for 10 minutes before carving and serving."
       ],
-      "country": "Samin Nosrat"
+      "country": "Singapore"
     },
     {
       "id": 13,
-      "name": "Buttery Breakfast Casserole",
+      "foodname": "Buttery Breakfast Casserole",
       "slug": "1017894-buttery-breakfast-casserole",
-      "image_path": "/static/recipes/1017894-buttery-breakfast-casserole.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1017894-buttery-breakfast-casserole.jpg",
       "description": "The word “buttery” in the title refers to croissants, which make an especially rich foundation for this golden-topped baked breakfast classic. Toasting the croissants before building the casserole adds caramelized notes that can stand up to the bits of browned sausage, sage and melted Gruyère strewn throughout. Make this the night before a special breakfast or brunch, then pop it in the oven an hour before you plan to serve it.",
-      "total_time_string": "1 1/2 hours, plus 4 hours or overnight chilling",
       "servings": "8 to 10 servings",
       "rating_value": 5,
       "ingredients": [
@@ -376,15 +275,14 @@
         "Lightly oil a 9- x 13-inch baking dish. Turn croissant mixture into pan, spreading it out evenly over the bottom. Pour custard into pan, pressing croissants down gently to help absorb the liquid. Cover pan with plastic wrap and refrigerate at least 4 hours or overnight.",
         "When you’re ready to bake the casserole, heat oven to 350 degrees. Scatter the remaining grated cheese over the top of the casserole. Transfer to oven and bake until casserole is golden brown and firm to the touch, 45 minutes. Let stand 10 minutes. Garnish with sliced scallion tops before serving."
       ],
-      "country": "Melissa Clark"
+      "country": "Maldives"
     },
     {
       "id": 14,
-      "name": "Cranberry Curd Tart",
+      "foodname": "Cranberry Curd Tart",
       "slug": "1017817-cranberry-curd-tart",
-      "image_path": "/static/recipes/1017817-cranberry-curd-tart.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1017817-cranberry-curd-tart.jpg",
       "description": "If you are a fan of lemon curd or the classic French tarte au citron, you will love this cranberry version. To minimize kitchen time, make it in stages, preparing the crust and curd a day or two in advance. The finished tart keeps well for a couple of days too. The wheat-free hazelnut crust is adapted from a cookie recipe from the pastry chef and writer <a href=\"http://www.davidlebovitz.com/\">David Lebovitz’s popular website</a>.",
-      "total_time_string": "1 1/2 hours",
       "servings": "8 to 10 servings",
       "rating_value": 5,
       "ingredients": [
@@ -411,15 +309,14 @@
         "Put eggs and egg yolks into a bowl and beat lightly. Slowly whisk a cup of warm cranberry liquid into the eggs to temper, then combine both and whisk together. Wipe out pot if necessary, return liquid to pot and cook over low heat until nearly bubbling and thickened, about 10 minutes. If using immediately, let cool to room temperature. If working ahead, cool to room temperature, cover with plastic wrap (press wrap against curd) and refrigerate. (Curd may be cooked up to 1 day ahead.)",
         "Pour cooled cranberry curd into the cooled prebaked tart shell and smooth top with a spatula. Bake at 350 degrees for 10 minutes to set curd. Cool on a rack. Store at room temperature for up to 2 days."
       ],
-      "country": "David Tanis"
+      "country": "Falkland Islands (Malvinas)"
     },
     {
       "id": 15,
-      "name": "One-Pan Orzo With Spinach and Feta",
+      "foodname": "One-Pan Orzo With Spinach and Feta",
       "slug": "1021485-one-pan-orzo-with-spinach-and-feta",
-      "image_path": "/static/recipes/1021485-one-pan-orzo-with-spinach-and-feta.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1021485-one-pan-orzo-with-spinach-and-feta.jpg",
       "description": "Similar to spanakorizo, a Greek spinach and rice dish, this easy, meatless meal features orzo, spinach, peas and scallions. It is deeply satisfying but still on the lighter side of pasta recipes, thanks to all those vegetables. A little feta gives it creaminess and tang, while some lemon zest brightens everything up. It makes a complete meal on its own, or, if you’re looking for something more substantial, serve this as a hearty side dish to roasted meats or fish.",
-      "total_time_string": "30 minutes",
       "servings": "4 servings",
       "rating_value": 5,
       "ingredients": [
@@ -441,15 +338,14 @@
         "Stir in stock and bring to a simmer. Stir in orzo, lemon zest and remaining 1/2 teaspoon salt. Cover and simmer over medium-low heat until orzo is nearly cooked through and most of the liquid is absorbed, 10 to 14 minutes, stirring once or twice.",
         "Stir in cheese, peas (if you like) and dill, cover the pan, and cook for another 1 minute, to finish cooking and warm the peas. To serve, sprinkle with more cheese and the reserved scallions."
       ],
-      "country": "Melissa Clark"
+      "country": "Faroe Islands"
     },
     {
       "id": 16,
-      "name": "Three-Cup Chicken",
+      "foodname": "Three-Cup Chicken",
       "slug": "1017456-three-cup-chicken",
-      "image_path": "/static/recipes/1017456-three-cup-chicken.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1017456-three-cup-chicken.jpg",
       "description": "Ask 30 people how to make this simple Taiwanese recipe, and you’ll receive 30 different responses. Some fry the chicken before braising it, use more oil, less wine, different blends of soy sauce. Debates rage over how thick the sauce should be, over which parts of the chicken to use. (Few follow the folk recipe that calls for making the sauce with a cup each of sesame oil, soy sauce and rice wine. “If you actually cook it that way,” says Eddie Huang, the Taiwanese-American chef who inspired the television program “Fresh Off the Boat,” “you’ll be in trouble.”) Our reporting and testing led us to the recipe below. Use it as a starting point, and then make it your own.",
-      "total_time_string": "30 minutes",
       "servings": "4 servings",
       "rating_value": 5,
       "ingredients": [
@@ -470,15 +366,14 @@
         "Add sugar and stir to combine, then add the rice wine and soy sauce, and bring just to a boil. Lower the heat, then simmer until the sauce has reduced and started to thicken, approximately 15 minutes.",
         "Turn off the heat, add the basil and stir to combine. Serve with white rice."
       ],
-      "country": "Sam Sifton"
+      "country": "San Marino"
     },
     {
       "id": 17,
-      "name": "Lemony White Bean Soup With Turkey and Greens",
+      "foodname": "Lemony White Bean Soup With Turkey and Greens",
       "slug": "1021776-lemony-white-bean-soup-with-turkey-and-greens",
-      "image_path": "/static/recipes/1021776-lemony-white-bean-soup-with-turkey-and-greens.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1021776-lemony-white-bean-soup-with-turkey-and-greens.jpg",
       "description": "Bright with lemon and herbs, and packed with hearty greens, this highly adaptable soup can be either light and brothy or thick and stewlike, depending on your preference. Smashing some of the beans to release their starch will give you a thicker soup that’s almost worthy of a fork. To keep it on the brothy side, add a little more liquid and leave the beans intact. Either way, it’s a warming, piquant, one-pot meal that’s perfect for winter.",
-      "total_time_string": "45 minutes",
       "servings": "4 servings",
       "rating_value": 5,
       "ingredients": [
@@ -506,44 +401,14 @@
         "Add the greens to the pot and simmer until they are very soft. This will take 5 to 10 minutes for most greens, but tough collard greens might take 15 minutes. (Add a little water if the broth gets too reduced.)",
         "Stir herbs and lemon juice into the pot, taste and add more salt, cumin and lemon until the broth is lively and bright-tasting. Serve topped with a drizzle of olive oil and more red-pepper flakes, if desired."
       ],
-      "country": "Melissa Clark"
-    },
-    {
-      "id": 18,
-      "name": "Slow Cooker Chipotle-Honey Chicken Tacos",
-      "slug": "1019693-slow-cooker-chipotle-honey-chicken-tacos",
-      "image_path": "/static/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos.jpg",
-      "description": "These may be the easiest tacos you ever make, but you<span>’</span>d never know it. The recipe hinges on just two ingredients: canned chipotles and honey, which slowly caramelize together for a glossy and incredibly tasty sauce. You may hesitate because there's so little liquid in the slow cooker with the chicken, but don't worry. That's how it's supposed to be. It allows the sauce to get a little sticky, which is exactly what you want. (Get the pressure cooker version of this recipe <a href=\"/#/recipe/1020043-pressure-cooker-chipotle-honey-chicken-tacos\">here</a>.)",
-      "total_time_string": "3 to 5 hours",
-      "servings": "4 servings",
-      "rating_value": 5,
-      "ingredients": [
-        "1 1/2 pounds boneless, skinless chicken thighs",
-        "3 tablespoons honey",
-        "1 teaspoon onion powder",
-        "1 teaspoon garlic powder",
-        "1/2 teaspoon ground cumin",
-        "1 teaspoon kosher salt",
-        "1 to 4 chipotles from a can of chipotles in adobo, finely chopped, plus 2 tablespoons adobo sauce",
-        "1 (15-ounce) can black beans, rinsed and drained",
-        " Juice of 1 lime",
-        " Warmed tortillas, for serving",
-        " Pickled onion, for serving (see Tip)",
-        " Sliced or cubed avocado, for serving"
-      ],
-      "instructions": [
-        "Combine the chicken, honey, onion and garlic powders, cumin, salt and chipotle chiles and adobo sauce in a 5- to 8-quart slow cooker. Stir well. Cook for at least 3 hours and up to 5 hours on low. If it’s more convenient, you can let the slow cooker switch to warm after 5 hours. The dish will hold on warm for about another 3 hours before the chicken starts to become quite dry.",
-        "Using two forks, coarsely shred the chicken in the sauce. Stir in the black beans and lime juice. Cover and let the beans warm through, about 5 minutes. Taste and add more salt or lime juice if necessary. Serve in tortillas with pickled onion and avocado."
-      ],
-      "country": "Sarah Digregorio"
+      "country": "American Samoa"
     },
     {
       "id": 19,
-      "name": "Basic Pesto",
+      "foodname": "Basic Pesto",
       "slug": "2653-basic-pesto",
-      "image_path": "/static/recipes/2653-basic-pesto.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/2653-basic-pesto.jpg",
       "description": "Pesto is a mouthful of bright summer — basil made more so.  You can buy it in a jar or in the refrigerator section of your grocery store, but there is nothing better than making it yourself. Fresh basil can be found in abundance at farmers’ markets in the summer. Just clean, take the stems off and throw the leaves in a food processor with nuts and garlic. Dribble in the oil and you’ve got a versatile sauce for pasta, chicken or fish.",
-      "total_time_string": "15 minutes",
       "servings": "2 cups",
       "rating_value": 5,
       "ingredients": [
@@ -558,15 +423,14 @@
         "With the machine running slowly dribble in the oil and process until the mixture is smooth.",
         "Add the cheese and process very briefly, just long enough to combine. Store in refrigerator or freezer."
       ],
-      "country": "Florence Fabricant"
+      "country": "Congo"
     },
     {
       "id": 20,
-      "name": "Creamy Cauliflower Soup With Rosemary Olive Oil",
+      "foodname": "Creamy Cauliflower Soup With Rosemary Olive Oil",
       "slug": "1020764-creamy-cauliflower-soup-with-rosemary-olive-oil",
-      "image_path": "/static/recipes/1020764-creamy-cauliflower-soup-with-rosemary-olive-oil.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1020764-creamy-cauliflower-soup-with-rosemary-olive-oil.jpg",
       "description": "This soup turns a short list of vegan ingredients into a sublimely silky soup. Infusing olive oil with fresh rosemary is a trick you’ll want to keep up your sleeve: The results are delicious brushed on roast chicken, drizzled over roasted winter vegetables or even just sopped up with a nice piece of bread. The croutons here are optional, but they transform an elegant and delicate first-course soup into a satisfying lunch.",
-      "total_time_string": "40 minutes",
       "servings": "6 servings",
       "rating_value": 5,
       "ingredients": [
@@ -593,15 +457,14 @@
         "Strain and discard the rosemary stems from the rosemary oil. Working in batches if necessary, carefully transfer the vegetables, stock and 1/4 cup rosemary oil to a <a href='https://www.nytimes.com/wirecutter/reviews/best-blender/'>blender</a> and blend on high until creamy. Add more rosemary oil to taste, and blend to combine. Return the soup to the pot and bring to a simmer. If the soup seems thin, let it simmer for 5 to 10 minutes to reduce slightly. (Remember: The soup will continue to thicken as it cools.) Season to taste with salt and pepper.",
         "Serve hot. Garnish each serving with a swirl of rosemary oil, a few croutons, and a sprinkle of lemon zest. The soup will thicken as it sits; add more stock as necessary when reheating. Leftover rosemary oil will keep in a sealed container at room temperature for up to 1 week."
       ],
-      "country": "Lidey Heuck"
+      "country": "Yemen"
     },
     {
       "id": 21,
-      "name": "Chicken Paprikash",
+      "foodname": "Chicken Paprikash",
       "slug": "1018068-chicken-paprikash",
-      "image_path": "/static/recipes/1018068-chicken-paprikash.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1018068-chicken-paprikash.jpg",
       "description": "Spices lose their flavor over time but few as quickly as paprika, which starts out tasting of pepper and sunshine but deteriorates in but a few months to sawdust and bitterness. For this recipe, get some new at the market: sweet or hot Hungarian paprika is best, but the generic article isn’t terrible and the smoky Spanish varieties known as pimentón de La Vera would not be out of place either, lending a deep, woodsy aroma reminiscent of cooking over an open fire. It’s a dish that pairs beautifully with butter-slicked egg noodles.",
-      "total_time_string": "1 hour",
       "servings": "Serves 4-6",
       "rating_value": 5,
       "ingredients": [
@@ -625,16 +488,14 @@
         "Meanwhile, set a large pot of heavily salted water to boil over high heat. Cook noodles in the water until they are almost completely tender, approximately 7 to 8 minutes. Drain the noodles, and toss them in a bowl with the remaining butter, then toss again to coat.",
         "Place the chicken on top of the noodles, then add the sour cream to the sauce, stir to combine and ladle it over the whole."
       ],
-      "country": "Sam Sifton",
-      "categories": []
+      "country": "Malaysia"
     },
     {
       "id": 22,
-      "name": "Butter Chicken",
+      "foodname": "Butter Chicken",
       "slug": "1016754-butter-chicken",
-      "image_path": "/static/recipes/1016754-butter-chicken.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1016754-butter-chicken.jpg",
       "description": "Butter chicken is a great, ever-evolving, cross-continental dish found in Delhi, London, New York, Perth and most points in between. In its purest form, it is yogurt-and-spice-marinated chicken dressed in a velvety red bath comprising butter, onions, ginger and tomatoes scented with garam masala, cumin and turmeric, with a cinnamon tang. This version was adapted from Amandeep Sharma, a young kitchen hand at the restaurant Attica, in Melbourne, Australia, who used to make it for staff meal. It is wildly luxurious. Serve with basmati rice and mango chutney, with papadums or naan if you can find them, with extra rice if you cannot.",
-      "total_time_string": null,
       "servings": "6 servings",
       "rating_value": 5,
       "ingredients": [
@@ -668,16 +529,14 @@
         "Stir in the cream and tomato paste, and simmer until the chicken is cooked \nthrough, approximately 10 to 15 minutes.",
         "Add the almonds, cook for an additional 5 minutes and remove from the \nheat. Garnish with the cilantro leaves."
       ],
-      "country": "Sam Sifton",
-      "categories": [5492, 5461, 5496, 5497, 5501]
+      "country": "Palau"
     },
     {
       "id": 23,
-      "name": "Lemony Carrot and Cauliflower Soup",
+      "foodname": "Lemony Carrot and Cauliflower Soup",
       "slug": "1015360-lemony-carrot-and-cauliflower-soup",
-      "image_path": "/static/recipes/1015360-lemony-carrot-and-cauliflower-soup.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1015360-lemony-carrot-and-cauliflower-soup.jpg",
       "description": "The beauty of a soup like this — other than its bone-warming properties — is that you don’t need a recipe. You can pretty much simmer together any combination of vegetables with a little water or broth, purée it, top it with good olive oil and salt, and end up with something good to eat. The addition of miso paste and crushed coriander to the broth, and fresh lemon and cilantro at the end, zips things up without negating the comfort factor.",
-      "total_time_string": "40 minutes",
       "servings": "4 servings",
       "rating_value": 5,
       "ingredients": [
@@ -701,16 +560,14 @@
         "Add carrots, crushed coriander, salt and 6 cups water to the pot. Stir in the miso until it dissolves. Bring mixture to a simmer and cook, uncovered, 5 minutes. Stir in cauliflower and cook, covered, over medium-low heat until the vegetables are very tender, about 10 minutes.",
         "Remove the soup from the heat. Using an immersion blender, purée the soup until smooth. (Alternatively, you can let soup cool slightly then purée it in batches in a food processor or blender.) If necessary, return the puréed soup to the heat to warm through. Stir in the lemon zest and juice just before serving. Drizzle with oil and sprinkle with chile, sea salt and cilantro leaves."
       ],
-      "country": "Melissa Clark",
-      "categories": [5488, 5492, 5496, 5497, 5552, 5502]
+      "country": "Cyprus"
     },
     {
       "id": 24,
-      "name": "Peanut Butter-Miso Cookies",
+      "foodname": "Peanut Butter-Miso Cookies",
       "slug": "1020538-peanut-butter-miso-cookies",
-      "image_path": "/static/recipes/1020538-peanut-butter-miso-cookies.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1020538-peanut-butter-miso-cookies.jpg",
       "description": "These cookies were the result of a happy accident. (The best things always are, aren’t they?) When the peanut butter ran out, similarly creamy white miso stepped in. The other ingredients were tweaked to offset the miso’s savory character, and what came out of the oven was salty and sweet, crunchy and chewy. A brief stint in the fridge helps mellow the miso’s bracing brackishness, and a roll in Demerara sugar adds a subtle crunch that pairs well with the tender cookie.",
-      "total_time_string": "30 minutes, plus chilling",
       "servings": "About 18 cookies",
       "rating_value": 5,
       "ingredients": [
@@ -736,16 +593,14 @@
         "When ready to bake, heat oven to 350 degrees. Bake cookies for about 15 minutes, until crisp at the edges and slightly puffed in the middle. They should still be a bit underdone in the center. Pull out the baking sheet and hit it against a counter. Place back into the oven to finish for about 3 to 4 minutes. When cookies are firm at the edges and slightly puffed in the center, pull them out and again hit the baking sheet against the counter. The cookies should appear flat and crinkly at the center.",
         "Let the cookies cool on a baking sheet for a few minutes, then transfer to a cooling rack. Store fully cooled cookies in an airtight container; they should retain their chewy texture for a few days."
       ],
-      "country": "Krysten Chambrot",
-      "categories": [5515, 5491]
+      "country": "Burundi"
     },
     {
       "id": 25,
-      "name": "The $250 Cookie Recipe",
+      "foodname": "The $250 Cookie Recipe",
       "slug": "9465-the-250-cookie-recipe",
-      "image_path": "/static/recipes/9465-the-250-cookie-recipe.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/9465-the-250-cookie-recipe.jpg",
       "description": "Almost everybody has heard the one about the woman lunching at the Neiman Marcus Cafe in Dallas, who enjoyed the chocolate chip cookies so much that she asked for the recipe. For \"only two-fifty,\" the waitress said, it was hers. But when the credit card bill arrived, the woman found the total near $300. Turns out the recipe cost $250, the story goes. In 1997, after years of enduring the myth, Neiman Marcus came up with a recipe – and gave it out for free. It's a delicious variation on chocolate chip cookies, using ground oatmeal, nuts and adding extra chocolate with a grated Hershey bar (you can use any brand you love).",
-      "total_time_string": "45 minutes",
       "servings": "About 55 cookies",
       "rating_value": 5,
       "ingredients": [
@@ -769,16 +624,14 @@
         "Finely grind oatmeal in a blender or food processor. Combine the oatmeal, flour, salt, baking powder and soda in a medium bowl, and slowly add it to the wet ingredients. Beat just until combined. Grate chocolate bar using a microplane grater and add it, along with chocolate chips and nuts to the batter. Mix just to combine.",
         "Drop by heaping tablespoonfuls, 2 inches apart, on a greased cookie sheet. Bake for 10 minutes."
       ],
-      "country": "Barbara Whitaker",
-      "categories": [5491]
+      "country": "Turkey"
     },
     {
       "id": 26,
-      "name": "Charlie Bird’s Farro Salad",
+      "foodname": "Charlie Bird’s Farro Salad",
       "slug": "1015843-charlie-birds-farro-salad",
-      "image_path": "/static/recipes/1015843-charlie-birds-farro-salad.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1015843-charlie-birds-farro-salad.jpg",
       "description": "There are two essential steps to a stellar farro salad. The first is cooking the farro with enough salt and aromatics so that it delicious before you combine it with the rest of the ingredients. The second is to use very good olive oil in the dressing. This farro salad, from the restaurant Charlie Bird in SoHo, hits both these marks. The chef Ryan Hardy cooks the farro in apple cider seasoned with bay leaves and plenty of salt, which renders it good enough to eat on its own. But it’s even better after he adds loads of olive oil, plus pistachio nuts and Parmesan cheese to make it even richer. Then, before serving, he folds in fresh vegetables to brighten it up: juicy tomatoes, radishes, arugula and plenty of herbs. There are many farro salads of this ilk out there. This is one of the best.",
-      "total_time_string": "45 minutes",
       "servings": "6 servings",
       "rating_value": 5,
       "ingredients": [
@@ -801,15 +654,14 @@
         "In a medium saucepan, bring farro, apple cider, salt, bay leaves and 2 cups water to a simmer. Simmer until farro is tender and liquid evaporates, about 30 minutes. If all the liquid evaporates before the farro is done, add a little more water. Let farro cool, then discard bay leaves.",
         "In a salad bowl, whisk together olive oil, lemon juice and a pinch of salt. Add farro, cheese and pistachio nuts and mix well. This salad base will keep for up to 4 hours at room temperature or overnight in the refrigerator (bring to room temperature before serving). Just before serving, fold in arugula, herbs, tomatoes, radish and flaky salt to taste."
       ],
-      "country": "Melissa Clark"
+      "country": "Christmas Island"
     },
     {
       "id": 27,
-      "name": "Lemony Turmeric Tea Cake",
+      "foodname": "Lemony Turmeric Tea Cake",
       "slug": "1020637-lemony-turmeric-tea-cake",
-      "image_path": "/static/recipes/1020637-lemony-turmeric-tea-cake.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1020637-lemony-turmeric-tea-cake.jpg",
       "description": "This cake, which is adapted from “Nothing Fancy: Unfussy Food for Having People Over,” is so good and so simple to put together, you might come to call it “house cake,” which is, of course, cake to keep in your house at all times. Just slicing into it makes a bad day better, the baked equivalent of burning sage or palo santo to clear the energy. It travels well, and can truly be brought anywhere for any occasion, but most of the time it won’t make it out of your kitchen.",
-      "total_time_string": "1 1/2 hours",
       "servings": "One 9-inch loaf",
       "rating_value": 5,
       "ingredients": [
@@ -833,15 +685,14 @@
         "Using a spatula, add the wet mixture to the flour mixture, stirring just to blend. Fold in the melted butter. Scrape the batter into the prepared pan, smoothing the top. Scatter the top with the lemon slices and 2 tablespoons sugar.",
         "Bake until the top of the cake is golden brown, the edges pull away from the sides of the pan, and a tester inserted into the center comes out clean, 50 to 60 minutes. (If the lemons are getting too dark, lay a piece of foil on top to prevent burning.) Let cool before slicing. (Cake can be baked up to 5 days ahead, wrapped tightly, and stored at room temperature.) Serve with whipped cream, if desired."
       ],
-      "country": "Alison Roman"
+      "country": "Georgia"
     },
     {
       "id": 28,
-      "name": "Creamy White Beans With Herb Oil",
+      "foodname": "Creamy White Beans With Herb Oil",
       "slug": "1019385-creamy-white-beans-with-herb-oil",
-      "image_path": "/static/recipes/1019385-creamy-white-beans-with-herb-oil.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1019385-creamy-white-beans-with-herb-oil.jpg",
       "description": "Canned beans are transformed into a hearty, elegant main swirled with an herb oil that comes together in no time with the aid of a food processor. This particular oil includes chives, cilantro and basil, but feel free to use what you have on hand. Parsley and mint would also work well. Serve with a chilled glass of red wine, a big green salad and a loaf of crusty bread.",
-      "total_time_string": "15 minutes",
       "servings": "2 to 4 servings",
       "rating_value": 5,
       "ingredients": [
@@ -866,15 +717,14 @@
         "Add stock or water and bring to a gentle simmer. Cook until sauce becomes creamy and is reduced by about about half, about 1 to 2 minutes more. Smash additional beans and add a few more tablespoons of water, if needed, to reach desired consistency and stir again to combined.",
         "Transfer beans to a bowl and swirl with herb oil on top. Season with flaky salt, if desired."
       ],
-      "country": "Colu Henry"
+      "country": "Montserrat"
     },
     {
       "id": 29,
-      "name": "Carrot Cake",
+      "foodname": "Carrot Cake",
       "slug": "1015523-carrot-cake",
-      "image_path": "/static/recipes/1015523-carrot-cake.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1015523-carrot-cake.jpg",
       "description": "You've got enough frosting to fill the layers and cover the sides and top of the cake, but Dorie Greenspan covers each layer generously, so generously that when the next layer goes on the frosting ripples out around the edges. Then just swirl the frosting over the top, leaving the sides bare.",
-      "total_time_string": "1 hour 30 minutes, plus at least 15 minutes' refrigeration",
       "servings": "8 to 12 servings",
       "rating_value": 5,
       "ingredients": [
@@ -910,15 +760,14 @@
         "Serving: The cake can be served as soon as the frosting is set. It can also wait, at room temperature and covered with a cake keeper, overnight. The cake is best served in thick slices at room temperature and, while it's good plain, it's better with whipped cream, vanilla ice cream or even some lemon curd with a little whipped cream folded in.",
         "Storing: Covered the cake will keep at room temperature for 2 to 3 days. It can also be frozen, uncovered, and then, when it is firmed, wrapped airtight and kept in the freezer for up to 2 months; defrost, still wrapped, in the refrigerator overnight."
       ],
-      "country": "Dorie Greenspan"
+      "country": "Holy See (Vatican City State)"
     },
     {
       "id": 30,
-      "name": "Lemon Bars With Olive Oil and Sea Salt",
+      "foodname": "Lemon Bars With Olive Oil and Sea Salt",
       "slug": "1017141-lemon-bars-with-olive-oil-and-sea-salt",
-      "image_path": "/static/recipes/1017141-lemon-bars-with-olive-oil-and-sea-salt.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1017141-lemon-bars-with-olive-oil-and-sea-salt.jpg",
       "description": "Traditional lemon bars balance the tangy sweetness of lemon curd with a rich shortbread crust. This recipe adds extra notes of flavor to the mix: the compelling bitterness of good olive oil and a touch of sea salt sprinkled on top. They lend a mild savory character to this childhood favorite, making it a little more sophisticated than the usual lemon bar, but just as compelling. Choose an olive oil with personality, otherwise you’ll miss the point. Something herbal and fresh tasting with peppery notes works best. Although the bars will last up to five days when stored in the fridge, they have the brightest flavor when eaten within 24 hours of baking.",
-      "total_time_string": "1 hour 30 minutes, plus cooling and chilling",
       "servings": "24 bars",
       "rating_value": 5,
       "ingredients": [
@@ -946,15 +795,14 @@
         "In a small saucepan, whisk together lemon juice, sugar, eggs and yolks, cornstarch and fine sea salt over medium heat until boiling and thickened, 2 to 5 minutes. Make sure mixture comes to a boil and stays there for 30 seconds or so; you should see it thicken up before you take it off the heat. But once it boils do not cook for longer than 1 minute or you risk the curd thinning out again. Remove from heat and strain into a bowl. Whisk in butter, olive oil and lemon zest.",
         "When the shortbread is ready, take it out of the oven and carefully pour the lemon curd onto the shortbread base; return the pan to the oven. Bake until topping is just set, 10 to 15 minutes more. Allow to cool to room temperature, then refrigerate until cold before cutting into bars. Sprinkle with confectioners’ sugar and flaky sea salt right before serving."
       ],
-      "country": "Melissa Clark"
+      "country": "Libyan Arab Jamahiriya"
     },
     {
       "id": 31,
-      "name": "Lemon-Garlic Kale Salad",
+      "foodname": "Lemon-Garlic Kale Salad",
       "slug": "1015411-lemon-garlic-kale-salad",
-      "image_path": "/static/recipes/1015411-lemon-garlic-kale-salad.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1015411-lemon-garlic-kale-salad.jpg",
       "description": "Here's a snappy, fresh side dish or a light supper: a lemony green salad, rich with tang and crunch. The dressing is nothing more than lemon juice, olive oil, garlic and salt. Its simplicity makes it perfect.",
-      "total_time_string": null,
       "servings": "8 to 12 servings",
       "rating_value": 5,
       "ingredients": [
@@ -972,15 +820,14 @@
         "Working in batches, cut the kale into thin ribbons: gather a large handful of leaves, bunch together tightly, and use the other hand to slice into 1/4-inch-thick pieces. This need not be done very precisely or neatly; the idea is to end up with a kind of slaw. (Recipe can be made up to this point 1 day ahead. Keep kale and dressing refrigerated separately.)",
         "Place chopped kale in a very large bowl. Sprinkle surface with almonds and then with cheese, if using. Remove and discard garlic cloves from dressing. Pour half the dressing over the salad and toss. Taste for dressing and salt and add more as needed, tossing to coat thoroughly. Serve within 1 hour."
       ],
-      "country": "Julia Moskin"
+      "country": "Trinidad and Tobago"
     },
     {
       "id": 32,
-      "name": "Sheet-Pan Chicken With Chickpeas, Cumin and Turmeric",
+      "foodname": "Sheet-Pan Chicken With Chickpeas, Cumin and Turmeric",
       "slug": "1018910-sheet-pan-chicken-with-chickpeas-cumin-and-turmeric",
-      "image_path": "/static/recipes/1018910-sheet-pan-chicken-with-chickpeas-cumin-and-turmeric.jpg",
+      "image": "https://recipes.eerieemu.com/static/recipes/1018910-sheet-pan-chicken-with-chickpeas-cumin-and-turmeric.jpg",
       "description": "The yogurt marinade does two very important jobs in this sheet-pan chicken recipe. One, the acidity in the marinade helps tenderize the meat, and two, the sugars in the yogurt help brown and caramelize the skin of the chicken as it roasts. Be sure to toss the chickpeas occasionally as they roast to encourage them to get coated in the chicken fat as it renders.",
-      "total_time_string": "1 hour, plus marinating",
       "servings": "4 servings",
       "rating_value": 5,
       "ingredients": [
@@ -1006,7 +853,46 @@
         "Combine remaining yogurt with remaining 1 tablespoon lemon juice and season with salt and pepper; set aside.",
         "Once chicken is ready, scatter with lemony onions and mint or cilantro. Serve with seasoned yogurt alongside as a sauce."
       ],
-      "country": "Alison Roman"
+      "country": "Marshall Islands"
+    },
+    {
+      "recipe": "",
+      "description": "resh raw corn shucked from the cob is ideal here. The juice from the tomatoes delivers just the right amount of acidity, so there’s no need for vinegar. Eat this as is, by the bowl, or toss it with cooked rice or beans for a more filling meal — you’ll want to add oil and vinegar accordingly. In midsummer, with peak-season produce, there is nothing better.",
+      "ingredients": [
+        " to 3 cups raw or cooked corn kernels (from 4 to 6 ears)"
+      ],
+      "country": "Kanairo",
+      "people": "",
+      "rating": "8",
+      "procedure": "",
+      "images": "",
+      "image": "https://recipes.eerieemu.com/static/recipes/1015537-corn-salad-with-tomatoes-feta-and-mint.jpg",
+      "foodname": "Corn Salad With Tomatoes, Feta and Mint",
+      "instructions": "Put the corn, tomatoes, cheese and mint in a medium bowl. Drizzle with the olive oil and toss to coat.",
+      "servings": "4",
+      "id": 33
+    },
+    {
+      "foodname": "Corn Salad With Tomatoes, Feta and Mint",
+      "description": "Corn Salad With Tomatoes, Feta and Mint",
+      "ingredients": "Corn Salad With Tomatoes, Feta and Mint",
+      "country": "Kanairo",
+      "servings": "5",
+      "rating": "7",
+      "instructions": "Corn Salad With Tomatoes, Feta and Mint",
+      "image": "https://recipes.eerieemu.com/static/recipes/1019451-spicy-corn-and-coconut-soup.jpg",
+      "id": 35
+    },
+    {
+      "foodname": "Corn Salad With Tomatoes, Feta and Mint",
+      "description": "Corn Salad With Tomatoes, Feta and Mint",
+      "ingredients": "Corn Salad With Tomatoes, Feta and Mint,Corn Salad With Tomatoes, Feta and MintCorn Salad With Tomatoes, Feta and MintCorn Salad With Tomatoes, Feta and Mint",
+      "country": "canairo",
+      "servings": "5",
+      "rating": "8",
+      "instructions": "Corn Salad With Tomatoes, Feta and Mint\n\nCorn Salad With Tomatoes, Feta and Mint\nCorn Salad With Tomatoes, Feta and Mint\nCorn Salad With Tomatoes, Feta and Mint\nCorn Salad With Tomatoes, Feta and Mint\nCorn Salad With Tomatoes, Feta and Mint\nCorn Salad With Tomatoes, Feta and Mint\nCorn Salad With Tomatoes, Feta and Mint",
+      "image": "https://recipes.eerieemu.com/static/recipes/1020993-tofu-and-green-beans-with-chile-crisp.jpg",
+      "id": 36
     }
   ]
 }
