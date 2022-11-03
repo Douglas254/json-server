@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Repository for testing CRUD Operations backend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Runs the app dependencies
+
+### `npm run server`
+
+Runs the server on port 5000 i.e  `http://localhost:5000`
 
 ### `npm start`
 
